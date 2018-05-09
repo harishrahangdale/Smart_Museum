@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Museum</string>
+    <string name="GPSAlertDialogTitle">Alert</string>
+    <string name="GPSAlertDialogMessage">Please Turn On Your GPS</string>
+    <string name="action_settings">Go To Settings</string>
+    <string name="cancel">Cancel</string>
+</resources>

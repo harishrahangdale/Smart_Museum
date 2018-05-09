@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "341997159598",
+    "firebase_url": "https://qrcode-b6bb1.firebaseio.com",
+    "project_id": "qrcode-b6bb1",
+    "storage_bucket": "qrcode-b6bb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341997159598:android:29ee3f170f57332a",
+        "android_client_info": {
+          "package_name": "com.example.smart.museum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341997159598-67bt4le2sm3jbkm944netqtrutkdkt3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart.museum",
+            "certificate_hash": "49cb4e2486e92f9853c420b6bd38ef8f11ad0e3e"
+          }
+        },
+        {
+          "client_id": "341997159598-4g11m8s82lc27oi2niqvgnpljii075k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIpN3fm2NAe5lNJ-CvyJGGOvOuK5KUHOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341997159598-4g11m8s82lc27oi2niqvgnpljii075k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
